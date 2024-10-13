@@ -60,7 +60,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Los-Angeles-Housing-Price-Predictor.git
+git clone https://github.com/akashkura/Los-Angeles-Housing-Price-Predictor.git
 Install the required dependencies: Navigate to the project directory and install the necessary libraries using pip:
 
 bash
