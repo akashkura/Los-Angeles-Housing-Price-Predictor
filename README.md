@@ -52,10 +52,3 @@ Ridge regression applies an L2 penalty to:
 Regularize large coefficients, but unlike Lasso, it does not shrink coefficients to zero.
 Improve model stability when features are highly correlated.
 Both methods are tested and evaluated to determine which provides the best predictive performance for housing prices in the dataset.
-
-
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/your-feature).
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
